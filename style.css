@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body, html {
+  background-color: #6495ED;
+}
+
+h1 {
+  border-style: double;
+  width: 184px;
+  margin-left: 43%;
+  color: black;
+}
+
+#b1 {
+  border-style: dotted;
+  background: yellow;
+  width: auto;
+}
+
+#b2 {
+  border-style: dotted;
+  background: yellow;
+  width: auto;
+}
+
+#b3 {
+  border-style: dotted;
+  background: yellow;
+  width: auto;
+}
+
+
+table, table * {
+  border: 1px solid black;
+  font-size: 30px;
+}
