@@ -5,7 +5,7 @@
 }
 
 body, html {
-  background-color: #6495ED;
+  background-color: beige;
 }
 
 h1 {
@@ -39,7 +39,7 @@ h2 {
 #b2 {
   background-color: yellow;
   display: inline-block;
-  width: auto;
+  width: 150px;
   border-radius: 5px;
   font-size: 25px;
 }
@@ -54,7 +54,7 @@ h2 {
 #b3 {
   background-color: yellow;
   display: inline-block;
-  width: auto;
+  width: 150px;
   border-radius: 5px;
   font-size: 25px;
 }
@@ -68,4 +68,8 @@ h2 {
 table, table * {
   border: 1px solid black;
   font-size: 25px;
+}
+
+#data {
+  background-color: red;
 }
