@@ -10,8 +10,9 @@ body, html {
 
 h1 {
   border-style: double;
-  width: 184px;
-  margin-left: 43%;
+  width: 100%;
+  text-align: center;
+  margin-left: 0;
   color: black;
 }
 
